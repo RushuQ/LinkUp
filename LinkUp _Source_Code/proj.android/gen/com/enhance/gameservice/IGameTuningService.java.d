@@ -1,0 +1,3 @@
+C:\Users\YIN\LinkUp\proj.android\gen\com\enhance\gameservice\IGameTuningService.java: \
+  C:\Users\YIN\LinkUp\proj.android\src\com\enhance\gameservice\IGameTuningService.aidl 
+
