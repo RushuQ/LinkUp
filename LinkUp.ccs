@@ -1,0 +1,54 @@
+<Solution>
+  <PropertyGroup Name="LinkUp" Version="2.3.3.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="LoadScene.csd" Type="Scene" />
+        <Folder Name="button">
+          <Image Name="start.png" />
+          <Image Name="exit.png" />
+          <Image Name="continue.png" />
+          <Image Name="pause.png" />
+          <Image Name="exit2.png" />
+          <Image Name="replay.png" />
+        </Folder>
+        <Image Name="s_bg.png" />
+        <Project Name="RunScene.csd" Type="Scene" />
+        <Image Name="BackGround.png" />
+        <Folder Name="item">
+          <Image Name="10_0.png" />
+          <Image Name="10_1.png" />
+          <Image Name="11_0.png" />
+          <Image Name="11_1.png" />
+          <Image Name="12_0.png" />
+          <Image Name="12_1.png" />
+          <Image Name="1_0.png" />
+          <Image Name="1_1.png" />
+          <Image Name="2_0.png" />
+          <Image Name="2_1.png" />
+          <Image Name="3_0.png" />
+          <Image Name="3_1.png" />
+          <Image Name="4_0.png" />
+          <Image Name="4_1.png" />
+          <Image Name="5_0.png" />
+          <Image Name="5_1.png" />
+          <Image Name="6_0.png" />
+          <Image Name="6_1.png" />
+          <Image Name="7_0.png" />
+          <Image Name="7_1.png" />
+          <Image Name="8_0.png" />
+          <Image Name="8_1.png" />
+          <Image Name="9_0.png" />
+          <Image Name="9_1.png" />
+        </Folder>
+        <Image Name="conner.png" />
+        <Image Name="progress.png" />
+        <Image Name="black.png" />
+        <Image Name="win.png" />
+        <Project Name="WinScene.csd" Type="Scene" />
+        <Project Name="PauseLayer.csd" Type="Layer" />
+        <Image Name="lose.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

@@ -1,0 +1,30 @@
+﻿  Load.cpp
+f:\cocos2d\linkup\classes\load.cpp(28): warning C4305: “参数”: 从“double”到“float”截断
+f:\cocos2d\linkup\classes\load.cpp(28): warning C4996: 'CocosDenshion::SimpleAudioEngine::sharedEngine': 被声明为已否决
+  d:\cocos\frameworks\cocos2d-x-3.9\cocos\audio\include\simpleaudioengine.h(70): note: 参见“CocosDenshion::SimpleAudioEngine::sharedEngine”的声明
+f:\cocos2d\linkup\classes\load.cpp(29): warning C4996: 'CocosDenshion::SimpleAudioEngine::sharedEngine': 被声明为已否决
+  d:\cocos\frameworks\cocos2d-x-3.9\cocos\audio\include\simpleaudioengine.h(70): note: 参见“CocosDenshion::SimpleAudioEngine::sharedEngine”的声明
+f:\cocos2d\linkup\classes\load.cpp(31): warning C4996: 'CocosDenshion::SimpleAudioEngine::sharedEngine': 被声明为已否决
+  d:\cocos\frameworks\cocos2d-x-3.9\cocos\audio\include\simpleaudioengine.h(70): note: 参见“CocosDenshion::SimpleAudioEngine::sharedEngine”的声明
+f:\cocos2d\linkup\classes\load.cpp(90): warning C4996: 'CocosDenshion::SimpleAudioEngine::sharedEngine': 被声明为已否决
+  d:\cocos\frameworks\cocos2d-x-3.9\cocos\audio\include\simpleaudioengine.h(70): note: 参见“CocosDenshion::SimpleAudioEngine::sharedEngine”的声明
+f:\cocos2d\linkup\classes\load.cpp(184): warning C4305: “-=”: 从“double”到“float”截断
+f:\cocos2d\linkup\classes\load.cpp(210): warning C4018: “<”: 有符号/无符号不匹配
+f:\cocos2d\linkup\classes\load.cpp(206): warning C4996: 'CocosDenshion::SimpleAudioEngine::sharedEngine': 被声明为已否决
+  d:\cocos\frameworks\cocos2d-x-3.9\cocos\audio\include\simpleaudioengine.h(70): note: 参见“CocosDenshion::SimpleAudioEngine::sharedEngine”的声明
+f:\cocos2d\linkup\classes\load.cpp(258): warning C4996: 'CocosDenshion::SimpleAudioEngine::sharedEngine': 被声明为已否决
+  d:\cocos\frameworks\cocos2d-x-3.9\cocos\audio\include\simpleaudioengine.h(70): note: 参见“CocosDenshion::SimpleAudioEngine::sharedEngine”的声明
+f:\cocos2d\linkup\classes\load.cpp(278): warning C4996: 'CocosDenshion::SimpleAudioEngine::sharedEngine': 被声明为已否决
+  d:\cocos\frameworks\cocos2d-x-3.9\cocos\audio\include\simpleaudioengine.h(70): note: 参见“CocosDenshion::SimpleAudioEngine::sharedEngine”的声明
+f:\cocos2d\linkup\classes\load.cpp(279): warning C4996: 'cocos2d::Node::unscheduleAllSelectors': 被声明为已否决
+  d:\cocos\frameworks\cocos2d-x-3.9\cocos\2d\ccnode.h(1456): note: 参见“cocos2d::Node::unscheduleAllSelectors”的声明
+f:\cocos2d\linkup\classes\load.cpp(291): warning C4996: 'CocosDenshion::SimpleAudioEngine::sharedEngine': 被声明为已否决
+  d:\cocos\frameworks\cocos2d-x-3.9\cocos\audio\include\simpleaudioengine.h(70): note: 参见“CocosDenshion::SimpleAudioEngine::sharedEngine”的声明
+f:\cocos2d\linkup\classes\load.cpp(302): warning C4996: 'CocosDenshion::SimpleAudioEngine::sharedEngine': 被声明为已否决
+  d:\cocos\frameworks\cocos2d-x-3.9\cocos\audio\include\simpleaudioengine.h(70): note: 参见“CocosDenshion::SimpleAudioEngine::sharedEngine”的声明
+f:\cocos2d\linkup\classes\load.cpp(310): warning C4996: 'cocos2d::Node::unscheduleAllSelectors': 被声明为已否决
+  d:\cocos\frameworks\cocos2d-x-3.9\cocos\2d\ccnode.h(1456): note: 参见“cocos2d::Node::unscheduleAllSelectors”的声明
+f:\cocos2d\linkup\classes\load.cpp(293): warning C4700: 使用了未初始化的局部变量“a”
+  60 File(s) copied
+  LinkUp.vcxproj -> F:\cocos2d\LinkUp\proj.win32\Debug.win32\LinkUp.exe
+  0 File(s) copied
